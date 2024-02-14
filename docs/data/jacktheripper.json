@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.059, 51.509]
+      },
+      "properties": {
+        "name": "Mary Ann Nichols",
+        "description": "Victim of Jack the Ripper. Found murdered on Buck's Row (now Durward Street), Whitechapel, London.",
+        "source": "https://en.wikipedia.org/wiki/Mary_Ann_Nichols",
+        "when": "1888-08-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.073, 51.514]
+      },
+      "properties": {
+        "name": "Annie Chapman",
+        "description": "Victim of Jack the Ripper. Found murdered in the backyard of 29 Hanbury Street, Whitechapel, London.",
+        "source": "https://en.wikipedia.org/wiki/Annie_Chapman",
+        "when": "1888-09-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.059, 51.517]
+      },
+      "properties": {
+        "name": "Elizabeth Stride",
+        "description": "Victim of Jack the Ripper. Found murdered in Dutfield's Yard, off Berner Street (now Henriques Street), Whitechapel, London.",
+        "source": "https://en.wikipedia.org/wiki/Elizabeth_Stride",
+        "when": "1888-09-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.075, 51.51]
+      },
+      "properties": {
+        "name": "Catherine Eddowes",
+        "description": "Victim of Jack the Ripper. Found murdered in Mitre Square, Whitechapel, London.",
+        "source": "https://en.wikipedia.org/wiki/Catherine_Eddowes",
+        "when": "1888-09-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.073, 51.514]
+      },
+      "properties": {
+        "name": "Mary Jane Kelly",
+        "description": "Victim of Jack the Ripper. Found murdered in her room at 13 Miller's Court, Whitechapel, London.",
+        "source": "https://en.wikipedia.org/wiki/Mary_Jane_Kelly",
+        "when": "1888-11-09"
+      }
+    }
+  ]
+}
