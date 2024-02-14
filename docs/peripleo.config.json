@@ -6,6 +6,7 @@
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
       "src": "./data/jacktheripper.json",
+      "attribution": "",
     }
   ],
   "facets": [
