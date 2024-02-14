@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
+    { "@id": "https://markmclaren.github.io/peripleo/1",
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -14,7 +14,7 @@
         "when": "1888-08-31"
       }
     },
-    {
+    { "@id": "https://markmclaren.github.io/peripleo/2",
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -27,7 +27,7 @@
         "when": "1888-09-08"
       }
     },
-    {
+    { "@id": "https://markmclaren.github.io/peripleo/3",
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -40,7 +40,7 @@
         "when": "1888-09-30"
       }
     },
-    {
+    { "@id": "https://markmclaren.github.io/peripleo/4",
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -53,7 +53,7 @@
         "when": "1888-09-30"
       }
     },
-    {
+    { "@id": "https://markmclaren.github.io/peripleo/5",
       "type": "Feature",
       "geometry": {
         "type": "Point",
