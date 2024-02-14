@@ -5,7 +5,7 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/jacktheripper.json",
+      "src": "https://markmclaren.github.io/peripleo/data/jacktheripper.json",
       "attribution": "",
     }
   ],
